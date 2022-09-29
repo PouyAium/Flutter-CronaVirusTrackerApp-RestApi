@@ -1,6 +1,10 @@
-# coronavirus_rest_api_flutter_course
+# Covid-19 App tracker
 
-A new Flutter project.
+Project with Restful api.
+![screen](https://user-images.githubusercontent.com/108508397/193094175-2ca3780d-69d7-48c9-a403-a11a5c3ac225.png)
+
+This project made with http and dio packages.
+
 
 ## Getting Started
 
